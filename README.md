@@ -74,7 +74,7 @@ Author
 
 Name:Mary Barnisha Shali.R
 Gmail :shaliabr24@gmail.com
-GitHub:(https://github.com/marybarnishas247/Live)
+GitHub:https://github.com/shaliabr/Shali.git
 License
 
 This project is open-source and free to use.
